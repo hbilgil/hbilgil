@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Halil B.
 - 👀 I’m interested in Full-Stack Web development
-- 🌱 I’m currently learning Foundations on Coding through TheOdinProject (TOP)
+- 🌱 I’m currently learning JavaScript Intermediate and Advanced Courses on Coding through TheOdinProject (TOP)
 - 💞️ I’m looking to collaborate on web development as a Junior Software developer in the near future
 - 📫 How to reach me: hbilgil@gmail.com
 
