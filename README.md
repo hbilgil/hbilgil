@@ -43,7 +43,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/typescript-plain.svg"
+        src="https://github.com/devicons/devicon/tree/v2.15.1/icons/bootstrap/typescript-plain.svg"
         width="48"
         height="48"
         alt="TypeScript"
@@ -61,7 +61,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/angular-plain.svg"
+        src="https://github.com/devicons/devicon/tree/v2.15.1/icons/bootstrap/angular-plain.svg"
         width="48"
         height="48"
         alt="Angular"
