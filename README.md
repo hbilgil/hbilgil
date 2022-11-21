@@ -61,7 +61,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg"
+        src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png?raw=true"
         width="48"
         height="48"
         alt="Angular"
