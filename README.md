@@ -68,8 +68,6 @@
       />
       <br /><strong>Angular</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
@@ -78,6 +76,26 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+    src="https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d06181d09008438c1a92f1a96/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667"
+        width="48"
+        height="48"
+        alt="Sass/Scss"
+      />
+      <br /><strong>Sass/Scss</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
+        width="48"
+        height="48"
+        alt="styled-components"
+      />
+      <br /><strong>styled components</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
